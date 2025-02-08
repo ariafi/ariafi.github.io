@@ -249,6 +249,6 @@ footer {
     section { padding: 10px; }
     .split { width: 100%; flex-direction: column; }
     .col-2 { flex-direction: column; }
-    .svg { width: 90%; }
+    .svg { width: 80%; }
     .btn { width: 60%; text-align: center; }
 }
